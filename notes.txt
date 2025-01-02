@@ -1,0 +1,8 @@
+ANN architecture diagrams - alexlenail.me/NN-SVG
+https://alexlenail.me/NN-SVG/
+
+
+#### FIGURES STYLE ####
+plt.style.use('cyberpunk')
+plt.rcParams['font.family'] = 'monospace'
+
